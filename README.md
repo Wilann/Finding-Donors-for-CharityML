@@ -3,8 +3,7 @@
 ## Project: Finding Donors for CharityML
 
 ### Udacity
-
-Project 1 from Udacity's [Intro to Machine Learning Nanodegree] (https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
+Udacity's [Intro to Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229) Project 1
 
 ### Description
 
