@@ -2,7 +2,7 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-### Udacity
+### Source
 
 Project 1 from Udacity's [Intro to Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
 
