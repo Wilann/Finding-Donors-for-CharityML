@@ -17,7 +17,7 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 - Created training and predicting pipeline to quickly and efficiently train models using various sizes of training sets and perform predictions on testing data
 - Tuned model using Grid Search to optimize hyperparameters
 - Extracted feature importance
-- Performed feature selection on most important features and re-trained the model
+- Performed feature selection to get the most important features and re-trained the model
 - Examined effects of feature selection by comparing the model with reduced features and optimized model
 
 ### Install
