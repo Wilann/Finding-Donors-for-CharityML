@@ -10,6 +10,16 @@ Project 1 from Udacity's [Intro to Machine Learning Nanodegree](https://www.udac
 
 CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually. To expand their potential donor base, CharityML has decided to send letters to residents of California, but to only those most likely to donate to the charity. With nearly 15 million working Californians, CharityML has brought you on board to help build an algorithm to best identify potential donors and reduce overhead cost of sending mail. Your goal will be evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
 
+- Preprocessed data by transforming skewed functions, normalizing/scaling, and one-hot encoding
+- Evaluated models based on metrics such as Accuracy, Precision, Recall, F Beta Score, as well as compare them against a Naive Predictor
+- Explored real-world application of models, advantages, and disadvantages
+- Evaluated Supervised Learning techniques including Gaussian Naive Bayes, Decision Trees, Support Vector Machines (SVM) and chooses the best model
+- Created training and predicting pipeline to quickly and efficiently train models using various sizes of training sets and perform predictions on testing data
+- Tuned model using Grid Search to optimize hyperparameters
+- Extracted feature importance
+- Performed feature selection on most important features and re-trained the model
+- Examined effects of feature selection by comparing the model with reduced features and optimized model
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
